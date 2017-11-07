@@ -5,5 +5,5 @@ use PHPExcel;
 
 class Excel
 {
-    
+
 }
