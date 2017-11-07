@@ -1,0 +1,16 @@
+{
+    "name": "yyougg/tools",
+    "description": "libtools",
+    "keywords": ["tools"],
+    "license": "MIT",
+    "version": "1.0.01",
+    "authors": [
+        {
+            "name": "yyougg",
+            "email": "xy700000@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.1"
+    }
+}
