@@ -1,6 +1,6 @@
 <?php
 
-namespace src\tools\excel;
+namespace Yyougg\Tools\Excel;
 use PHPExcel;
 
 class Excel
